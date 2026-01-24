@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- 背景圆形 -->
+  <circle cx="50" cy="50" r="45" fill="#4080ff" />
+  
+  <!-- Electron轨道 -->
+  <ellipse cx="50" cy="50" rx="40" ry="15" fill="none" stroke="#ffffff" stroke-width="2" transform="rotate(30 50 50)" />
+  <ellipse cx="50" cy="50" rx="40" ry="15" fill="none" stroke="#ffffff" stroke-width="2" transform="rotate(90 50 50)" />
+  <ellipse cx="50" cy="50" rx="40" ry="15" fill="none" stroke="#ffffff" stroke-width="2" transform="rotate(150 50 50)" />
+  
+  <!-- 中心原子 -->
+  <circle cx="50" cy="50" r="8" fill="#ffffff" />
+  
+  <!-- FastAPI标志 -->
+  <path d="M30 65 L40 55 L30 45 L40 35" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Vue标志 -->
+  <path d="M50 70 L60 55 L70 70" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M55 62.5 L60 55 L65 62.5" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
